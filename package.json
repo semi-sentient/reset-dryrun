@@ -1,6 +1,6 @@
 {
 	"name": "reset-dryrun-markus-test",
-	"version": "0.0.0",
+	"version": "0.1.0",
 	"description": "An opinionated, MIT-licensed full-stack TypeScript starter template.",
 	"license": "MIT",
 	"private": true,
