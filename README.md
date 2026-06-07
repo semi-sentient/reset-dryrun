@@ -1,4 +1,4 @@
-# vibe-starter
+# reset-dryrun-markus-test
 
 An opinionated, MIT-licensed full-stack TypeScript starter: Vite + React on the front end, Hono + PostgreSQL on the back end, wired together with end-to-end type safety. Designed to give a solo builder (and their AI agent) a modern, maintainable foundation to ship a real app on.
 
